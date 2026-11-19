@@ -195,7 +195,7 @@ Formal-conjectures misformalizations (~20% according to Felix — check the figu
 
 # Comparator
 
-Comparator is a tool for checking trusted code with the definitions and the statement against an untrusted proof of the statement.
+Comparator is a tool for checking trusted definitions and statements against an untrusted proof.
 
 It mostly relies on organization, checking the trustworthy statment separately from a possibly cheating proof, which is checked in a sandbox.
 
